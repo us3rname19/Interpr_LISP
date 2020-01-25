@@ -1,2 +1,4 @@
 # Interpr_LISP
- Интерпретатор подмножества языка LISP
+
+LISP subset interpreter
+Интерпретатор подмножества языка LISP
